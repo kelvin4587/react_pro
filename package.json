@@ -1,0 +1,21 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "author": "kelvin",
+  "scripts": {
+    "start": "webpack-dev-server --progress",
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
+    "react": "^0.14.9",
+    "react-dom": "^0.14.10",
+    "webpack": "^4.35.3",
+    "webpack-cli": "^3.3.5",
+    "webpack-dev-server": "^3.7.2"
+  }
+}
